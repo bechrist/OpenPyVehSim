@@ -1,0 +1,23 @@
+Frame
+- Sprung Mass              :
+- Sprung Mass Distribution :
+- Sprung CG (Chassis Frame): 
+- Sprung Ride Height       :
+- Sprung Inertia Tensor    :
+- Sprung Stiffness Tensor  :
+
+Suspension 
+- Kinematics  :
+-- Wheelbase  :
+-- Track Width:
+-- Camber     :
+-- Toe        :
+-- Caster     :
+-- 
+
+- Unsprung Mass:
+- Inertial Tensor:
+
+
+
+
